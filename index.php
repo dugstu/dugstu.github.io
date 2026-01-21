@@ -1,0 +1,100 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <meta name="keywords" content="design, product strategy, product design, experience design, ThoughtWorks, Endava, UX" />
+    <meta name="description" content="The portfolio of Douglas Stuart, product strategist and experience designer" />
+    <title>Douglas G Stuart &mdash; Product. Strategy. Design.</title>
+    <link href="https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,400i|Libre+Franklin:400,700" rel="stylesheet" />
+    <link rel="stylesheet" type="text/css" href="../css/styles.css" />
+    <meta property="og:image" content="../img/dgs.png" />
+    <link rel="image_src" href="../img/dgs.png" />
+   <link rel="apple-touch-icon" sizes="180x180" href="../img/favicon/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes "32x32" href="..img/favicon/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes "16x16" href="..img/favicon/favicon-16.16.png" />
+  <link rel="manifest" href="../img/favicon/site.webmanifest" />
+  <link rel="icon" type="image/png" href="../img/favicon.ico" />
+    <!-- Global Site Tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-19440881-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'UA-19440881-1');
+    </script>
+  </head>
+  <body>
+    <header>
+      <h1><a href="http://doug-stuart.com">Douglas G Stuart</a></h1>
+      <p><i>Product. Strategy. Design.</i></p>
+    </header>
+    <section>
+      <article>
+        <h1></h1>
+
+        <h2>My work</h2>
+        <h3>2012&mdash;now</h3>
+        <p>As a principal product strategist and UX designer formerly at <a href="https://www.thoughtworks.com">Thoughtworks</a> and currently at <a href="https://www.endava.com">Endava</a>, I help organizations define strategy through design thinking and product-centric processes.</p>
+        <p>I build teams capable of agile software design and development.</p>
+        <p>I advocate for customers using best practices of experience design.</p>
+        <p>Most of my work has been with enterprise organizations; I’ve worked in agriculture, aviation, education, energy, finance, grocery, pharma, rail, real estate, retail, telecoms, and more.</p>
+<!--        <h3>2007&mdash;2012</h3>
+        <p>Lead UX design at <a href="http://www.shipleyassociates.net">Shipley &amp; Associates</a>, a legal and political consulting firm.</p>
+        <h3>2010</h3>
+        <p>Received MS in Information Studies, with a focus on experience design.</p>
+-->
+    </article>
+    <article>
+        <h2>My process(es)</h2>
+        <p>Some thoughts about how I work <a href="process1.php">here</a>.
+    </article>
+    <!--<article>
+        <h2>Recent speaking engagements</h2>
+        <h4>Design for America Sparks Series</h4>
+        <p>April 8, 2020<br>
+            <a href="https://youtu.be/a5ghUS3MqbI">Youtube</a><br>
+            <a href="http://designforamerica.com/">more info</a>
+        </p>
+        
+        <h3>IXDA Chicago</h3>
+        <p>November 8, 2017<br>
+          Chicago, IL<br>
+          <a href="https://www.ixdachicago.org/">more info</a>
+        </p>
+        
+    </article>-->
+    <article>
+        <h2>My bona fides</h2>
+        <p>My resume is <a href="Stuart,Douglas-resume.pdf">here</a>.
+        </p>
+        <p>My portfolio is <a href="/portfolio">here</a> but due to NDAs, I can't post it openly. That said, I'm happy to show it to interested parties.</p>
+<!--    <p>
+            <a href="two/index.php" target="_blank">Old version of my portfolio</a>
+        </p>
+-->
+    </article>
+    <article>
+        <h2>What I'm currently reading</h2>
+        <table class="books">
+            <tr>
+                <td class="books-thumb">
+                    <a href="https://amzn.to/4aIqPE0" class="thumb">
+                    <img src="img/books/GEB.jpg"
+                    </a>
+                </td>
+                <td>
+                    <a href="https://amzn.to/4aIqPE0">
+                    <i>G&ouml;del, Escher, Bach: an Eternal Golden Braid</i><br>
+                    Douglas R. Hofstadter
+                    </a>
+                </td>
+            </tr>
+        </table>
+    </article>
+    <article>
+        <h2>Contact me</h2>
+        <p>Email me at <a href="mailto:douglas.g.stuart@gmail.com">douglas.g.stuart@gmail.com</a>.</p>
+
+      </article>
+    <?php include 'footer.php';?>
+</html>
