@@ -26,7 +26,7 @@
   <body>
     <header>
       <h1><a href="http://doug-stuart.com">Douglas G Stuart</a></h1>
-      <p><i>Product. Strategy. Design.</i></p>
+      <p><i>Product. Strategy. Design..</i></p>
     </header>
     <section>
       <article>
